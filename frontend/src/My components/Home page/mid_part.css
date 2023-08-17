@@ -1,0 +1,75 @@
+.second_part{
+    display: flex;
+    height: 60%;
+}
+
+.second_pic{
+    margin:2em;
+}
+
+.second_part_text{
+    margin:1em 0; 
+    margin-right: 2rem;
+    flex-shrink: 1.5;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5em;;
+    line-height: 109px;
+    text-align: right;
+    text-transform: capitalize;
+
+/* title */
+
+    color: var(--title-colour);
+
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(112, 107, 107);
+
+    text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+
+    align-self: center;
+}
+
+.popular_treks{
+    display: flex;
+    margin:0 0 3em 0;
+    height: 50vh;
+}
+
+.popular_treks_header{
+    margin-left: 2rem;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5em;
+    line-height: 136px;
+    text-transform: capitalize;
+
+/* title */
+
+    color: var(--title-colour);
+
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(112, 107, 107);
+
+    text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+
+    align-self: flex-start;
+}
+
+.popular_treks_text{
+    margin:2rem;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 45px;
+    text-align: right;
+
+    /* body */
+
+    color: var(--text-colour);
+    align-self:flex-end ;
+}

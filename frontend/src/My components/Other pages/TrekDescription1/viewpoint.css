@@ -1,0 +1,22 @@
+#vp_frame{
+    display: flex;
+}
+
+#vp_name{
+    width: 40%;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+#vp_details{
+
+}
+
+.vp{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+
+    color: var(--text-colour);
+}

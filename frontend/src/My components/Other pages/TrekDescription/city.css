@@ -1,0 +1,43 @@
+#city_title{
+    font-size: 1.8em;
+    color: var(--text-colour);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    padding: 1rem;
+    padding-bottom: 0rem !important;
+}
+
+#city_details_frame{
+    padding:1rem;
+    display: flex;
+}
+
+#city_desc{
+    text-align: justify;
+    padding-right: 2rem;
+    color: var(--text-colour);
+    width: 60vw;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+
+    font-size: 1.2em;
+    line-height: 1.5rem;
+}
+
+#vp_acc_frame{
+    display: flex;
+}
+
+.column{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+
+    font-size: 1.2em;
+    line-height: 1.5rem;
+    color: var(--title-colour);
+    padding-bottom: 0.5rem;
+}

@@ -1,0 +1,26 @@
+.package_text{
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+ 
+    color: var(--text-colour);
+
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+#package_name,#package_guide{
+    padding-top: 1rem;
+}
+
+#package_details,#guides_text{
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.guide_name{
+    padding-right: 10rem;
+}
+

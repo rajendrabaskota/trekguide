@@ -1,0 +1,65 @@
+Annapurna Base Camp
+desc: Annapurna Base Camp Trek probably the best legendary and 
+classical treks in the world offers breathe
+pic:https://img.traveltriangle.com/blog/wp-content/uploads/2018/11/cover-for-Annapurna-Base-Camp-Trek.jpg
+max elevation:4130M
+days:8 days
+difficulty:moderate
+
+
+package_deatails:
+
+route_name:Scenic Path
+desc:Trekking to Annapurana Base Camp is offered by several agencies in Pokhara as an 
+all inclusive package with a guide and porters. It is also popular to do this trek by hiring 
+your own staff,
+pic:https://tibetanencounter.com/wp-content/uploads/2017/10/ghandruk-trek1.jpg
+
+grandruk
+Ghandruk is a common place for treks in the Annapurna range of Nepal 
+(Annapurna Base 
+
+vp:
+view tower
+Glimpse At the beauty of the city
+
+culture
+can experience culture of the city
+
+acc:
+"ghandruk hotel","986562655","kasutub@gmail.com",1000,
+"Hotel De ghandruk","9869","kasuybu@",1000
+
+Chomrong
+Chhomrong is a village in the Annapurna area of Nepal and famous night stopover for those going to Annapurna sanctuary trek. Standing in the village you can enjoy the outstanding scenery of Himalaya, Hiunchuli, Machupachare, and Annapurna, especially in the morning when the sun just arise.
+
+vp:
+religion:BON
+people in the region worship nature 
+
+acc:
+"Chomrong peak hotel","9851","sadsa@",1000
+"Chomrong valley hotel","9851","sadsa@",1000
+
+Bamboo
+The village is situated at an altitude of 2310m and offers a splendid experice for any new travellers throug hthe area with change in landscape and mountain views.
+
+vp:
+landscape
+out of the world landscapes
+
+acc:
+"Hotel de bambu","","",1200
+
+
+Annapurna Base Camp
+Ascend further from Machhapuchhre Base Camp to Annapurna Base Camp, the highest point of the trek. You can decide how your legs and your lungs are holding up. The views from ABC is fantastic – all the hard work to get here is worth it!
+
+vp:
+ABC
+views if annapurna south and I II III all around
+
+acc:
+"Teahouse","","",2000
+
+season:september,october

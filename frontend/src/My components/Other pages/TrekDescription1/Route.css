@@ -1,0 +1,61 @@
+.route_details{
+    padding: 1em;
+    margin:2em 0em;
+    border: 1px solid black;
+    border-radius: 1em;
+    background-color: rgb(248, 242, 242);
+    box-shadow: 10px 10px 10px rgb(110, 106, 106);
+}
+
+#route_name{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2em;
+    color: var(--text-colour);
+    padding: 0.5em 0em 1em 0.5em;
+}
+
+#route_desc{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    text-align: justify;
+    color: var(--text-colour);
+    padding: 0em 1rem;
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+.route_box{
+    display: flex;
+}
+
+#route_desc{
+    align-self: center;
+}
+
+#route_pic{
+    width: 80%;
+    border-radius: 3em;
+    position: relative;
+    left: 10%;
+}
+
+#city_in_the_route{
+    font-size: 2em;
+    color: var(--title-colour);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    padding: inherit;
+}
+
+.packages{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 600;
+    color: var(--title-colour);
+    font-size: 2em;
+    padding: 1rem;
+}

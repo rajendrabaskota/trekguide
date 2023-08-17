@@ -1,0 +1,71 @@
+tilicho trek
+Tilicho Lake is a lake located in the Manang district of Nepal, 55 kilometres (34 mi) as the crow flies from the city of Pokhara. It is situated at an altitude of 4,919 metres (16,138 ft) in the Annapurna range of the Himalayas. Another source lists the altitude of Lake Tilicho as being 4,949 metres (16,237 ft).
+
+pic:https://upload.wikimedia.org/wikipedia/commons/4/4c/Tilicho_Lake.jpg
+
+
+max elevation:4949M
+days:6 days
+difficulty:moderate
+
+
+route_name:trecherous Path
+desc:Tlicho Lake trek is a journey to the world’s highest glacial lake Tilicho with an altitude of 4949 meters. Tlicho lake is part of Annapurna circuit trek and one of the best sight treks. Often trekkers do it when they are doing Annapurna circuit trek and most of the trekkers cross Thorong la pass after they do the Tilicho lake trek. The magnificent lake is one of the major attractions in the Annapurna region
+your own staff,
+pic:https://www.nepalmotherhousetreks.com/uploads/package/gallery/tilicho-lake-trail.jpg
+
+manang
+It is situated in the broad valley of the Marshyangdi River to the north of the Annapurna mountain range. The river flows to the east. To the west, the 5,416-metre (17,769 ft) Thorong La pass leads to Muktinath shrine and the valley of the Gandaki River. To the north there is the Chulu East peak of 6,584 m (21,601 ft). Most groups trekking around the Annapurna range will take resting days in Manang to acclimatize to the high altitude, before taking on Tilicho Lake.
+
+vp:
+ice lake
+llake situated at the base of a snowy peak at 4600M
+
+bhraga
+City situated on a cliff
+
+acc:
+"manang homestay","986562655","kasutub@gmail.com",1000,
+"Hotel De manang","9869","kasuybu@",1000
+
+Shree Kharka
+a town situated at 4080M with vibrant colours and frineldy people who are willing to help you at any cost. The topography being harsh it's diffcult running such a town on the basis of 100 200 people.
+
+vp:
+terrain
+open terrain amazes everyone visiting the place
+
+landslide area
+risky trek as it compels people to cross cliffs on a 2 foot window
+
+acc:
+"hotel shree","986562655","kasutub@gmail.com",1000,
+"Hotel valley peak","9869","kasuybu@",1000
+
+
+Tilicho Base camp
+The town behind a mountain doesnt get enough light to power through days. From here people prepare for their final hike and enjoy the night in a serene environment.
+
+vp:
+glaciers
+vast galciers flowing right below the path
+
+annapurna III
+the tall standing annapurna make the town go dark in midday
+
+acc:
+"hotel shree","986562655","kasutub@gmail.com",1000,
+"Hotel valley peak","9869","kasuybu@",1000
+
+
+TIlicho Lake
+Regarded as one of the highest lakes in the world, it rests in the stunning location in the Annapurna region at an altitude of 5,000 meters.
+
+
+vp:
+lake,mountains
+the vast lake and the glorous mountains are a sight to behold
+
+
+acc:
+"homestay","986562655","kasutub@gmail.com",1000,

@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: var(--text-colour);
+    width:100%;
+}
+
+.navbar_logo_image{
+    width: 40px;
+    height: 50px;
+    cursor: pointer;
+    left:0;
+    margin-right: 0.5em;
+}
+
+.navbar_container{
+    display: flex;
+    height: 3em;
+    background: var(--rect-colour);
+    align-items: center;
+    position: sticky;
+    z-index: 100;
+    top:0%;
+    color: var(--text-colour)
+}
+
+.navbar_title{
+    display: flex;
+    flex-basis: content;
+    margin: 0 2em;
+}
+
+.navbar_menu_icon{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    align-self: center;
+    justify-self: center;
+}
+
+.navbar_search_icon{
+    width: 38px;
+    height: 38px;
+    margin: 0.2em 1em;
+}
+
+.navbar_searchBar >.search_dropdown > ul{
+    list-style: none;
+}
+
+.navbar_wrapper{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin:0;
+    padding:0 1rem 0 0em;
+    text-align: center;
+}
+
+.navbar_wrapper > li {
+    justify-self: center;
+}
+
+.navbar_wrapper > li >a{
+    text-decoration: none;
+}
+
+.navbar_searchBar{
+    display:flex;
+    background-color: rgb(193, 198, 211);
+    border-radius:0.5em;
+    position: relative;
+}
+
+.navbar_searchBar:hover{
+    background-color: #b5c1d3;
+}
+
+.navbar_search_text{
+    align-self: center;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.search_dropdown{
+    padding: 0.5em 1em;
+    position:absolute;
+    top:70%;
+    background-color: inherit;
+    width:inherit;
+    border-radius: 0 0 0.5em 0.5em;
+    cursor: pointer;
+}
+
+.search_dropdown_inactive{
+    display: none;
+}
+
+.search_dropdown>ul>li{
+    padding: 0.5em 0.5em 0.1em 0.5em;
+    border-bottom: 1px solid white;
+    margin-bottom: 0.5em;
+}
+
+.search_dropdown>ul>li:first-child{
+    margin-top: 0.5em;
+}
+
+.search_dropdown>ul>li:hover{
+    background-color: #9cb0cc;
+    border-radius: 1em;
+}
+
+.search_dropdown_active{
+    display: initial;
+}
+
+.navbar_menu{
+    display: none;
+    flex-basis: content;
+    margin-right: 2rem;
+}
+
+@media only screen and (max-width:600px) {
+    
+    .navbar_menu{
+        
+        display: initial;
+    }
+}

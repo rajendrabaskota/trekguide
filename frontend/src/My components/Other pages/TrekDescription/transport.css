@@ -1,0 +1,18 @@
+#medium_frame{
+    display: flex;
+    padding: 2rem;
+}
+
+#medium_origin_city,#medium_destination_city,#medium_cost{
+    padding-bottom: 1rem;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    text-align: justify;
+    color: var(--text-colour);
+    font-size: 1.5rem;
+}
+
+#medium_origin_city:last-child{
+    padding-bottom: 1rem;
+}
